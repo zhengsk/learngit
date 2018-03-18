@@ -6,4 +6,6 @@ Creating a new branch is quick.
 Master add text!
 Dev add text!
 
-a wrong line.
+a wrong line. Fixed a wrong line.
+Add new line
+
