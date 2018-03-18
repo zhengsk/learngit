@@ -5,3 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Master add text!
 Dev add text!
+
+Add new line.
